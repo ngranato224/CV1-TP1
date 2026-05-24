@@ -1,0 +1,5 @@
+venv/
+vision_computadora_I/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
